@@ -63,6 +63,27 @@
 
 
 <style>
+
+@media (max-width: 650px) {
+  .project {
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+  }
+  .links {
+      display: flex;
+      /* justify-content: space-between; */
+      line-height: 1;
+      padding: 5px;
+  }
+  .description h3{
+      margin-left: -10px;
+  }
+
+}
+
+
+
 section {
     max-width: 43em;
     margin: auto;
@@ -92,10 +113,6 @@ section {
     margin-bottom: 2rem;
     font-size: 1rem;
     font-family: Helvetica;
-}
-
-.td-none {
-  text-decoration: none;
 }
 
 </style>
