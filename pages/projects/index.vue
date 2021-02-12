@@ -52,7 +52,7 @@
                 </div>  
                 <div class="links"> 
                     <a class="td-none" target="_blank" href="https://videosphere.pylearn-2017.repl.co/">view</a>
-                    <a class="td-none" target="_blank" href="https://videosphere.pylearn-2017.repl.co/">code</a>   
+                    <a class="td-none" target="_blank" href="https://repl.it/@Pylearn_2017/VideoSphere">code</a>   
                 </div>  
             </div>
             
