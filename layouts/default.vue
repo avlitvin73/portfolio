@@ -11,6 +11,9 @@ export default {
 </script>
 
 <style>
+.td-none {
+  text-decoration: none;
+}
 html {
   font-family:
     'Source Sans Pro',

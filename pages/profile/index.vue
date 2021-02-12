@@ -63,7 +63,4 @@ a {
     font-family: Helvetica;
 }
 
-.td-none {
-  text-decoration: none;
-}
 </style>

@@ -3,3 +3,9 @@
         <Nuxt />
     </div>
 </template>
+
+<style>
+.td-none {
+  text-decoration: none;
+}
+</style>
